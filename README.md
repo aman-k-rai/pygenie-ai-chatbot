@@ -13,7 +13,7 @@ It integrates Google Gemini API to generate intelligent responses through a simp
 
 Clone the repo:
 
-git clone https://github.com/YOUR_USERNAME/pygenie-ai-chatbot.git
+git clone https://github.com/aman-k-rai/pygenie-ai-chatbot.git
 
 Install dependencies:
 
