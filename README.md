@@ -12,10 +12,10 @@ It integrates Google Gemini API to generate intelligent responses through a simp
 ## Screenshots
 
 ### Chat interface
-![PyGenie UI](screenshots/Pygenie_demo_1.png)
+![PyGenie UI](screenshots/pygenie-ui.png)
 
 ### AI Response
-![PyGenie Chat](screenshots/Pygenie_demo_2.png)
+![PyGenie Chat](screenshots/pygenie-chat..png)
 
 ## Run Locally
 
