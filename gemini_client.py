@@ -9,7 +9,7 @@ def ask_gemini(message):
 	try:
 		response = client.models.generate_content(
 			 model="gemini-2.5-flash",
-		  	contents=message
+		  	contents=f"Give short answer (max 4 to 5 sentences):{message} "
                 )
 
 		return response.text

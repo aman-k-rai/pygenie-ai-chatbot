@@ -9,6 +9,14 @@ It integrates Google Gemini API to generate intelligent responses through a simp
 - Google Gemini API
 - HTML, CSS, JavaScript
 
+## Screenshots
+
+### Chat interface
+![PyGenie UI](screenshots/Pygenie_demo_1.png)
+
+### AI Response
+![PyGenie Chat](screenshots/Pygenie_demo_2.png)
+
 ## Run Locally
 
 Clone the repo:
